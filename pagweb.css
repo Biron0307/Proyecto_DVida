@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: linear-gradient(to right, #fbfcfc, #fbfcfc);
+    color: #333;
+}
+header {
+    background: #19502c;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+nav {
+    text-align: center;
+    margin: 20px 0;
+}
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #08471e;
+    font-weight: bold;
+}
+section {
+    max-width: 800px;
+    margin: 50px auto;
+    background: #fff;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+h1, h2 {
+    font-family: 'Georgia', serif;
+}
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #1b552c;
+    color: #fff;
+}
